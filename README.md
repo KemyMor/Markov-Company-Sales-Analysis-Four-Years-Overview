@@ -47,7 +47,7 @@ This serves as a foundation for product and sales strategy development, facilita
 ## Regional Total Revenue and Regional Product Coverage Analysis
 This analysis aims to provide an overview of the company's total revenue from sales across different regions, also considering the coverage of different products across each region,
 to enable a better understanding of the company's regional financial performance and product coverage.
-!(Regional Sales Analysis)[https://github.com/KemyMor/Markov-Company-Sales-Analysis-Four-Years-Overview/blob/d4e94e4dbf176265d8995f207ae24faf05400f21/Regional%20Sales%20Analysis.JPG]
+![Regional Sales Analysis](https://github.com/KemyMor/Markov-Company-Sales-Analysis-Four-Years-Overview/blob/d4e94e4dbf176265d8995f207ae24faf05400f21/Regional%20Sales%20Analysis.JPG)
 
 # Key Findings:
 Total Revenue by Region:
