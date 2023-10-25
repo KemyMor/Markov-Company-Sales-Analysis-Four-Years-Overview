@@ -1,4 +1,4 @@
-![image](https://github.com/KemyMor/Markov-Company-Sales-Analysis-Four-Years-Overview/assets/147549154/635f258f-3fd2-4a70-81af-a85012bd2041)# Markov-Company-Sales-Analysis-Four-Years-Overview
+## Markov-Company-Sales-Analysis-Four-Years-Overview
 
 ## Product and Sales Analysis
 This analysis gives a clear illustration of the sales/revenue generated per product. 
