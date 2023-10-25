@@ -1,4 +1,4 @@
-# Markov-Company-Sales-Analysis-Four-Years-Overview
+![image](https://github.com/KemyMor/Markov-Company-Sales-Analysis-Four-Years-Overview/assets/147549154/635f258f-3fd2-4a70-81af-a85012bd2041)# Markov-Company-Sales-Analysis-Four-Years-Overview
 
 ## Product and Sales Analysis
 This analysis gives a clear illustration of the sales/revenue generated per product. 
@@ -68,4 +68,46 @@ Assess the contribution of each region to the company's global revenue. Some reg
 # Recommedation
 Develop region-specific strategies to optimize revenue. These strategies may include pricing adjustments, market expansion, cost control measures, and tailored marketing efforts.
 The company's global total revenue analysis highlights the diversity in financial performance across different regions. Understanding the underlying factors and tailoring strategies to specific regions is crucial for sustained regional success.
+
+## Annual Revenue and Profit Trend Analyzing -January to December.
+This is essential for understanding a company's performance over the course of a year. 
+This involves a thorough examination of monthly sales data, identification of trends and patterns, assessment of factors affecting sales, and formulation of strategies to achieve sales goals.
+It's a critical tool for making informed decisions and ensuring a company's growth and success.
+![Annual Profit Trend](https://github.com/KemyMor/Markov-Company-Sales-Analysis-Four-Years-Overview/blob/6401bda0627df0e1856a6d6b2df53afd5179bbb2/Annual%20Profit%20Trend.JPG)
+
+# Key Findings
+Annual Profit Trend Analysis - January to December
+This brief aims to provide an overview of the company's financial performance, specifically focusing on the profit generated from sales during the period from January to December. Analyzing the monthly profit trends, it's evident that the company experienced fluctuations throughout the year.
+The company started the month of Jnauary with sales of $9,134.45 in the month of Feburary to march there was a significant increase and later recorded a decline in the monthof April.
+This Trend is same with the sales trend. 
+
+# Recommendations:
+Based on the sales and profit trend analysis, consider strategies to maintain or enhance profitability in the each upcoming month as sales decline. 
+This may involve cost control, marketing campaigns, or product diversification.
+The company's financial performance for January to December demonstrates solid sales revenue and profitability. 
+However, it is essential to assess factors contributing to profit fluctuations and to develop strategies that ensure sustainable growth in the future.
+
+
+## Revenue and Profit Margin Analysis - Four-Year Overview
+This analysis aims to provide an overview of the company's profit margin from sales across four consecutive years, allowing us to assess trends in profitability and identify areas for improvement.
+![Four-year Overview](https://github.com/KemyMor/Markov-Company-Sales-Analysis-Four-Years-Overview/blob/4817a551a8f23dd503dc397ab5f1c56a1382d635/Four-year%20Overview.JPG)
+
+# Key Findings:
+In Year 2014, the company achieved a profit margin of 19.97%, indicating the percentage of revenue retained as profit after expenses.
+
+In Year 2015, we saw a profit margin of 21.03%, representing profitability for that year.
+
+In year 2016, we saw a profiyt margin of 25.89%, representing profitability for that year.
+
+In the Year 2017, the company achieved the highest profit margin of 33.14%, reflecting profitability during this period.
+
+# Recommendations:
+Based on the findings, propose recommendations for optimizing profit margins in the upcoming years.
+These may include further cost control, pricing reviews, and operational efficiency enhancements.
+The company's profit margin analysis across four years reveals insights into its financial performance and profitability trends. 
+Understanding the factors that influenced profit margins over this period is crucial for making informed financial decisions and strategic planning.
+
+
+
+
 
