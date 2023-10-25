@@ -1,4 +1,6 @@
 ## Markov-Company-Sales-Analysis-Four-Years-Overview
+This analysis is aFour Years overview for Markov Company. It tends to help analysis the company's proftability, loss across all regions and segments. 
+It also helps evaluate each products strength across segments and regions with the sole aim to provide stategy developmeny, data driven decision making for future productivity and proftability of the company the next year. 
 
 ## Product and Sales Analysis
 This analysis gives a clear illustration of the sales/revenue generated per product. 
