@@ -113,17 +113,10 @@ Understanding these issues will enable us to develop targeted strategies to impr
 ![Growth by segment](https://github.com/KemyMor/Markov-Company-Sales-Analysis-Four-Years-Overview/blob/904b0e253522e42c06163af8e1e1a63eef4be59b/Growth%20by%20segment.JPG)
 
 # Key Findings
+Consumer Segment generated the highest revenue with total revenue of $1,161,401.34
+Corporate Segment also generated a total revenue of $706,146.37
+Home Offices Segment generated a total revenue of $429,653.15
 
-
-Channel Diversification:
-Expand sales channels and communication methods that align with the preferences of customers in this segment.
-Monitoring and Evaluation:
-Continuously monitor the impact of these strategies on sales within Segment A. Regularly review sales data and gather customer feedback to refine and adapt our approaches.
-
-Conclusion:
-By addressing the identified issues and implementing the recommended strategies, we aim to boost sales within the low-performing Segment A. This proactive approach will not only increase revenue but also enhance customer satisfaction and loyalty in this segment.
-
-This brief provides a clear overview of the issues and strategies related to low sales counts within a specific customer segment, serving as a foundation for further action and analysis.
-
+*Monitoring and Evaluation: Continuously monitor the impact of these strategies on sales within Segmeents. Regularly review sales data and gather customer feedback to refine and adapt our approaches.*
 
 
